@@ -1,0 +1,7 @@
+D:\Year(3)\Advance Programming\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\ProxyDesignPattern.exe.config
+D:\Year(3)\Advance Programming\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\ProxyDesignPattern.exe
+D:\Year(3)\Advance Programming\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\ProxyDesignPattern.pdb
+D:\Year(3)\Advance Programming\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.csproj.AssemblyReference.cache
+D:\Year(3)\Advance Programming\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.csproj.CoreCompileInputs.cache
+D:\Year(3)\Advance Programming\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.exe
+D:\Year(3)\Advance Programming\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.pdb

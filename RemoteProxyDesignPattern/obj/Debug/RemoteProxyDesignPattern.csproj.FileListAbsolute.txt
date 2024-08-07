@@ -1,0 +1,7 @@
+D:\Year(3)\Advance Programming\ProxyDesignPattern\RemoteProxyDesignPattern\bin\Debug\RemoteProxyDesignPattern.exe.config
+D:\Year(3)\Advance Programming\ProxyDesignPattern\RemoteProxyDesignPattern\bin\Debug\RemoteProxyDesignPattern.exe
+D:\Year(3)\Advance Programming\ProxyDesignPattern\RemoteProxyDesignPattern\bin\Debug\RemoteProxyDesignPattern.pdb
+D:\Year(3)\Advance Programming\ProxyDesignPattern\RemoteProxyDesignPattern\obj\Debug\RemoteProxyDesignPattern.csproj.AssemblyReference.cache
+D:\Year(3)\Advance Programming\ProxyDesignPattern\RemoteProxyDesignPattern\obj\Debug\RemoteProxyDesignPattern.csproj.CoreCompileInputs.cache
+D:\Year(3)\Advance Programming\ProxyDesignPattern\RemoteProxyDesignPattern\obj\Debug\RemoteProxyDesignPattern.exe
+D:\Year(3)\Advance Programming\ProxyDesignPattern\RemoteProxyDesignPattern\obj\Debug\RemoteProxyDesignPattern.pdb
