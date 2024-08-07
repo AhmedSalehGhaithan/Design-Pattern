@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34407.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Factory Design Pattern", "Abstract Factory Design Pattern\Abstract Factory Design Pattern.csproj", "{60869206-61A0-4356-A80C-F54858F53B07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsAbstractFactory", "CarsAbstractFactory\CarsAbstractFactory.csproj", "{80151C3B-24BE-4DCF-AC61-F8E484825360}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60869206-61A0-4356-A80C-F54858F53B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60869206-61A0-4356-A80C-F54858F53B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60869206-61A0-4356-A80C-F54858F53B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60869206-61A0-4356-A80C-F54858F53B07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80151C3B-24BE-4DCF-AC61-F8E484825360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80151C3B-24BE-4DCF-AC61-F8E484825360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80151C3B-24BE-4DCF-AC61-F8E484825360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80151C3B-24BE-4DCF-AC61-F8E484825360}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6893A049-A3C3-4F33-8387-FFC13D88E31F}
+	EndGlobalSection
+EndGlobal
