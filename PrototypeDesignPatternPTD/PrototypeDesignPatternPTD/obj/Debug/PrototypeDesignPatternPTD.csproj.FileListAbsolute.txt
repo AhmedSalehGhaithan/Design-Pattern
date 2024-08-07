@@ -1,0 +1,7 @@
+D:\Year(3)\Advance Programming\PrototypeDesignPatternPTD\PrototypeDesignPatternPTD\bin\Debug\PrototypeDesignPatternPTD.exe.config
+D:\Year(3)\Advance Programming\PrototypeDesignPatternPTD\PrototypeDesignPatternPTD\bin\Debug\PrototypeDesignPatternPTD.exe
+D:\Year(3)\Advance Programming\PrototypeDesignPatternPTD\PrototypeDesignPatternPTD\bin\Debug\PrototypeDesignPatternPTD.pdb
+D:\Year(3)\Advance Programming\PrototypeDesignPatternPTD\PrototypeDesignPatternPTD\obj\Debug\PrototypeDesignPatternPTD.csproj.AssemblyReference.cache
+D:\Year(3)\Advance Programming\PrototypeDesignPatternPTD\PrototypeDesignPatternPTD\obj\Debug\PrototypeDesignPatternPTD.csproj.CoreCompileInputs.cache
+D:\Year(3)\Advance Programming\PrototypeDesignPatternPTD\PrototypeDesignPatternPTD\obj\Debug\PrototypeDesignPatternPTD.exe
+D:\Year(3)\Advance Programming\PrototypeDesignPatternPTD\PrototypeDesignPatternPTD\obj\Debug\PrototypeDesignPatternPTD.pdb
