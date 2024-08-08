@@ -1,0 +1,7 @@
+D:\Year(3)\Design Principle\StrategyDesignPattern_SDP\StrategyDesignPattern_SDP\bin\Debug\StrategyDesignPattern_SDP.exe.config
+D:\Year(3)\Design Principle\StrategyDesignPattern_SDP\StrategyDesignPattern_SDP\bin\Debug\StrategyDesignPattern_SDP.exe
+D:\Year(3)\Design Principle\StrategyDesignPattern_SDP\StrategyDesignPattern_SDP\bin\Debug\StrategyDesignPattern_SDP.pdb
+D:\Year(3)\Design Principle\StrategyDesignPattern_SDP\StrategyDesignPattern_SDP\obj\Debug\StrategyDesignPattern_SDP.csproj.AssemblyReference.cache
+D:\Year(3)\Design Principle\StrategyDesignPattern_SDP\StrategyDesignPattern_SDP\obj\Debug\StrategyDesignPattern_SDP.csproj.CoreCompileInputs.cache
+D:\Year(3)\Design Principle\StrategyDesignPattern_SDP\StrategyDesignPattern_SDP\obj\Debug\StrategyDesignPattern_SDP.exe
+D:\Year(3)\Design Principle\StrategyDesignPattern_SDP\StrategyDesignPattern_SDP\obj\Debug\StrategyDesignPattern_SDP.pdb
