@@ -1,0 +1,7 @@
+D:\Year(3)\Advance Programming\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe.config
+D:\Year(3)\Advance Programming\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe
+D:\Year(3)\Advance Programming\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.pdb
+D:\Year(3)\Advance Programming\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csproj.AssemblyReference.cache
+D:\Year(3)\Advance Programming\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+D:\Year(3)\Advance Programming\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.exe
+D:\Year(3)\Advance Programming\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.pdb
