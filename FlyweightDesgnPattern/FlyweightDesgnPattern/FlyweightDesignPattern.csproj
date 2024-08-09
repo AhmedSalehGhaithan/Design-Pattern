@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{100AF5A3-AF1F-4B14-AD5A-DFF3EDE8BB11}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>FlyweightDesgnPattern</RootNamespace>
+    <AssemblyName>FlyweightDesgnPattern</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CAD_System\CADSystem.cs" />
+    <Compile Include="CAD_System\Circle.cs" />
+    <Compile Include="CAD_System\ShapeStyle.cs" />
+    <Compile Include="CAD_System\StyleFactory.cs" />
+    <Compile Include="CoffeeShops\Client\CoffeeShop.cs" />
+    <Compile Include="CoffeeShops\FlyweightFactory\CoffeeFactory.cs" />
+    <Compile Include="CoffeeShops\Flyweight\Coffee.cs" />
+    <Compile Include="ForestSimulationExample\Tree.cs" />
+    <Compile Include="ForestSimulationExample\TreeFactory.cs" />
+    <Compile Include="ForestSimulationExample\TreeType.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShapeExample\Circle.cs" />
+    <Compile Include="ShapeExample\IShape.cs" />
+    <Compile Include="ShapeExample\ShapeFactory.cs" />
+    <Compile Include="TextEditor\Character.cs" />
+    <Compile Include="TextEditor\CharacterStyle.cs" />
+    <Compile Include="TextEditor\StyleFactory.cs" />
+    <Compile Include="TextEditor\TextEditors.cs" />
+    <Compile Include="VehicleLicensePlateManagementSystem\LicensePlate.cs" />
+    <Compile Include="VehicleLicensePlateManagementSystem\LicensePlatePrefix.cs" />
+    <Compile Include="VehicleLicensePlateManagementSystem\LicensePlateSystem.cs" />
+    <Compile Include="VehicleLicensePlateManagementSystem\PrefixFactory.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

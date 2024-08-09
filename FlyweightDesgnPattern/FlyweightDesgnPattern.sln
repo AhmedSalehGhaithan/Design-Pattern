@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34407.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightDesignPattern", "FlyweightDesgnPattern\FlyweightDesignPattern.csproj", "{100AF5A3-AF1F-4B14-AD5A-DFF3EDE8BB11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{100AF5A3-AF1F-4B14-AD5A-DFF3EDE8BB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100AF5A3-AF1F-4B14-AD5A-DFF3EDE8BB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100AF5A3-AF1F-4B14-AD5A-DFF3EDE8BB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100AF5A3-AF1F-4B14-AD5A-DFF3EDE8BB11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC24961C-5DBE-4ACF-BFEB-2C5EFE94BE98}
+	EndGlobalSection
+EndGlobal

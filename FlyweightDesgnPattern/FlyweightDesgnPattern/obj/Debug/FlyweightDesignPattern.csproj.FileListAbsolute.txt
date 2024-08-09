@@ -1,0 +1,7 @@
+D:\Year(3)\Advance Programming\FlyweightDesgnPattern\FlyweightDesgnPattern\bin\Debug\FlyweightDesgnPattern.exe.config
+D:\Year(3)\Advance Programming\FlyweightDesgnPattern\FlyweightDesgnPattern\bin\Debug\FlyweightDesgnPattern.exe
+D:\Year(3)\Advance Programming\FlyweightDesgnPattern\FlyweightDesgnPattern\bin\Debug\FlyweightDesgnPattern.pdb
+D:\Year(3)\Advance Programming\FlyweightDesgnPattern\FlyweightDesgnPattern\obj\Debug\FlyweightDesignPattern.csproj.AssemblyReference.cache
+D:\Year(3)\Advance Programming\FlyweightDesgnPattern\FlyweightDesgnPattern\obj\Debug\FlyweightDesignPattern.csproj.CoreCompileInputs.cache
+D:\Year(3)\Advance Programming\FlyweightDesgnPattern\FlyweightDesgnPattern\obj\Debug\FlyweightDesgnPattern.exe
+D:\Year(3)\Advance Programming\FlyweightDesgnPattern\FlyweightDesgnPattern\obj\Debug\FlyweightDesgnPattern.pdb
